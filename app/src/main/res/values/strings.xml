@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mylogin</string>
+    <string name="userid" />
+    <string name="txtUsuario" />
+    <string name="id" />
+    <string name="Usuario" />
+    <string name="Email" />
+    <string name="Password" />
+    <string name="Consultar" />
+</resources>
